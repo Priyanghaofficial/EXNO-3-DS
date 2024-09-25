@@ -1,4 +1,4 @@
-![Screenshot 2024-09-25 101319](https://github.com/user-attachments/assets/80ed0b2a-673e-4b4c-8139-6f63f8589629)## EXNO-3-DS
+## EXNO-3-DS
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -32,7 +32,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
 ![Screenshot 2024-09-25 101242](https://github.com/user-attachments/assets/925e0bc7-3383-4d33-8077-ea295a9f07d7)
-
+![Screenshot 2024-09-25 101319](https://github.com/user-attachments/assets/80ed0b2a-673e-4b4c-8139-6f63f8589629)
 ![Screenshot 2024-09-25 101256](https://github.com/user-attachments/assets/e83e05c4-27b7-4beb-82d9-bd34ea27517c)
 ![Screenshot 2024-09-25 101309](https://github.com/user-attachments/assets/df6b2701-eaa0-47fd-bf05-0749ff9c94e8)
 ![Screenshot 2024-09-25 101319](https://github.com/user-attachments/assets/aec8147a-a282-4c9f-a001-bfcd0acf983e)
